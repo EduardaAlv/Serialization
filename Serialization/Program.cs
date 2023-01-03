@@ -30,3 +30,5 @@ foreach (Objeto obj in lista)
     Console.Write("\n" + obj.Nome);
 
 }
+//Console.WriteLine(serializado);
+//Console.WriteLine(objeto);
