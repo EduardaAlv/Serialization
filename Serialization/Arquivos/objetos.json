@@ -1,12 +1,14 @@
 [
   {
     "Id": 1,
-    "Nome": "Objeto 1",
-    "Preco": 25.00
+    "Nome_Objeto": "Objeto 1",
+    "Preco": 25.00,
+    "DataObjeto": "2023-01-02T17:18:15.120303-03:00"
   },
   {
     "Id": 1,
-    "Nome": "Objeto 2",
-    "Preco": 25.00
+    "Nome_Objeto": "Objeto 2",
+    "Preco": 25.00,
+    "DataObjeto": "2023-01-02T17:18:15.120303-03:00"
   }
 ]
