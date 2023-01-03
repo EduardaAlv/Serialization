@@ -16,3 +16,4 @@ string serializado = JsonConvert.SerializeObject(list, Formatting.Indented);
 File.WriteAllText(Path.GetFullPath(@"..\..\..\") + "\\Arquivos\\objetos.json", serializado);
 
 //Console.WriteLine(serializado);
+//Console.WriteLine(objeto);
